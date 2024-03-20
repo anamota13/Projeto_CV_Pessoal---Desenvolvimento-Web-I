@@ -9,5 +9,10 @@ Siga abaixo o anexo de algumas imagens que contrbuiram para a estética do site:
    
 ![lg_logo](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/603c458d-ed79-4d89-8711-0c852a1fa8de)
 
+2. Logo do Instagram (Botão):
+
+![logo_insta](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/255e2ac1-6c6e-4540-b78e-1486fd132180)
+
+
 
 
