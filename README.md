@@ -1,8 +1,10 @@
 # ANA MOTA: Currículo Pessoal | Programação Web I
 
-##  Acesso
-Siga abaixo os links para acesso: 
-**Acesso ao Site:**[Ana Mota](https://encr.pw/AnaMota-CV)
+## Acesso
+Você está a um clique de distância! Abaixo, você encontrará o link para acessar o site:
+
+[Clique aqui para explorar o meu currículo pessoal!](https://encr.pw/AnaMota-CV)
+[Clique aqui para acessar o repositório.](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I.git)
 
 ## Descrição
 Este projeto, desenvolvido durante as aulas de Programação Web I, envolve a criação de uma página web para apresentar o currículo pessoal de cada aluno. A página destaca informações como educação, experiência profissional, habilidades e informações de contato para, principalmente, ingressar na área de tecnologia.
