@@ -21,4 +21,6 @@ Abaixo, você encontrará o link para acessar o site:
 
 ## Screenshots | Imagens do Site
 Siga abaixo imagens referentes ao layout do site: 
+![image](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/77da33fb-0269-4d9e-9b9d-ba61a7c78eac)
+
 
