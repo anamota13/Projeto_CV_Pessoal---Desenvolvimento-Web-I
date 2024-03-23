@@ -1,14 +1,14 @@
 # ANA MOTA: Currículo Pessoal | Programação Web I
 
-## Descrição
+## 📋 Descrição
 Este projeto, desenvolvido durante as aulas de Programação Web I, envolve a criação de uma página web para apresentar o currículo pessoal de cada aluno. A página destaca informações como educação, experiência profissional, habilidades e informações de contato para, principalmente, ingressar na área de tecnologia. Foi realizado utilizando HTML e CSS, proporcionando uma experiência de aprendizado abrangente e prática na construção de páginas web.
 
-### HTML (HyperText Markup Language): 
+### 📍HTML (HyperText Markup Language): 
 
 
 HTML (HyperText Markup Language) é uma linguagem usada para criar páginas web. Utilizando tags para estruturar e organizar o conteúdo, como títulos, parágrafos e imagens. O HTML foi essencial para construir e apresentar informações do site.
 
-### CSS (Cascading Style Sheets): 
+### 📍CSS (Cascading Style Sheets): 
 
 
 Linguagem de estilo usada para controlar a aparência e o layout de páginas web. Ela permitiu definir cores, fontes, espaçamentos e posicionamento de elementos HTML. Essa separação entre conteúdo (HTML) e estilo (CSS) facilitou a manutenção e atualização de sites, além de possibilitar designs visualmente atraentes e consistentes em toda a web.
