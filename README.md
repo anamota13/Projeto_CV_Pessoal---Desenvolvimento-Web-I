@@ -14,14 +14,14 @@ HTML (HyperText Markup Language) é uma linguagem usada para criar páginas web.
 Linguagem de estilo usada para controlar a aparência e o layout de páginas web. Ela permitiu definir cores, fontes, espaçamentos e posicionamento de elementos HTML. Essa separação entre conteúdo (HTML) e estilo (CSS) facilitou a manutenção e atualização de sites, além de possibilitar designs visualmente atraentes e consistentes em toda a web.
 
 
-## 📱 Acesso
+## 🌐 Acesso
 Abaixo, você encontrará o link para acessar o site:
 
 <a href="https://encr.pw/AnaMota-CV" style="color: black;">Clique aqui para acessar o site</a>
 
 
 
-## Imagens do Projeto 
+## 📷 Imagens do Projeto 
 
 |     Logo do Site     |     Logo do Instagram     |
 |----------------------|---------------------------|
@@ -33,7 +33,7 @@ Abaixo, você encontrará o link para acessar o site:
 
 
 
-## Screenshots | Imagens do Site
+## 💻 Screenshots | Imagens do Site
 
 Siga abaixo imagens referentes ao layout do site: 
 
