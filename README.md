@@ -12,3 +12,7 @@ Este projeto, desenvolvido durante as aulas de Programação Web I, envolve a cr
 |     Banner do Projeto     |
 |----------------------|
 | ![Banner do Projeto](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/dd988837-7a45-4fa5-a051-6d0cc592b8d4) |
+
+|Logo do Site (FOOTER)|
+|---------------------|
+|![Logo do Site (FOOTER)](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/blob/main/logo_footer.png?raw=true)|
