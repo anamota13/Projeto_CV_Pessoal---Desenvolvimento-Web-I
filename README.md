@@ -18,3 +18,7 @@ Abaixo, você encontrará o link para acessar o site:
 |     Banner do Projeto     |     Logo do Site (FOOTER)     |
 |----------------------|---------------------------|
 | ![Banner do Projeto](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/dd988837-7a45-4fa5-a051-6d0cc592b8d4) | ![Logo do Site (FOOTER)](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/blob/main/logo_footer.png?raw=true) |
+
+## Screenshots | Imagens do Site
+Siga abaixo imagens referentes ao layout do site: 
+
