@@ -2,7 +2,7 @@
 
 ## Descrição
 Este projeto, desenvolvido durante as aulas de Programação Web I, envolve a criação de uma página web para apresentar o currículo pessoal de cada aluno. A página destaca informações como educação, experiência profissional, habilidades e informações de contato para, principalmente, ingressar na área de tecnologia.
-[Clique aqui para explorar o meu currículo pessoal!](https://encr.pw/AnaMota-CV)
+<a href="https://encr.pw/AnaMota-CV" style="color: blue;">Clique aqui para acessar o site</a>
 
 
 ## Imagens do Projeto 
