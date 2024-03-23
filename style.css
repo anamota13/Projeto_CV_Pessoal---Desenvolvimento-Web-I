@@ -60,12 +60,14 @@
     font-family: 'Blippo', fantasy;
     font-size: 40px;
     text-align: center;
+    width: 100%; 
     
   }
   
   .info p1 {
    font-family: 'Courier New', Courier, monospace;
    font-size: 20px;
+   width: 100%; 
   }
   
   .info img {
