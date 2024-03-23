@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto, desenvolvido durante as aulas de Programação Web I, envolve a criação de uma página web para apresentar o currículo pessoal de cada aluno. A página destaca informações como educação, experiência profissional, habilidades e informações de contato para, principalmente, ingressar na área de tecnologia. Foi realizado utilizando HTML e CSS, proporcionando uma experiência de aprendizado abrangente e prática na construção de páginas web.
 
-### HTML: 
+### HTML (HyperText Markup Language): 
 
 
 HTML (HyperText Markup Language) é uma linguagem usada para criar páginas web. Utilizando tags para estruturar e organizar o conteúdo, como títulos, parágrafos e imagens. O HTML foi essencial para construir e apresentar informações do site.
