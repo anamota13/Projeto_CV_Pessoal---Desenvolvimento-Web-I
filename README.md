@@ -1,4 +1,4 @@
-<h1>Projeto: Currículo Pessoal | Programação Web I <img src="https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/603c458d-ed79-4d89-8711-0c852a1fa8de" alt="Logo do Site" width="50" height="50"></h1>
+<h1><img src="https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/603c458d-ed79-4d89-8711-0c852a1fa8de" alt="Logo do Site" width="50" height="50">Projeto: Currículo Pessoal | Programação Web I</h1>
 
 
 
