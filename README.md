@@ -21,6 +21,14 @@ Abaixo, você encontrará o link para acessar o site:
 
 ## Screenshots | Imagens do Site
 Siga abaixo imagens referentes ao layout do site: 
-![image](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/77da33fb-0269-4d9e-9b9d-ba61a7c78eac)
+![image](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/5eb1cd87-5f95-4314-a655-7dc2f9372515)
+![image](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/5edd46eb-5a49-479b-8a2c-b2952dee6fe4)
+![image](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/0cfc81d8-ce2d-49de-bf36-e406f7d5985f)
+![image](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/310d567c-1753-4cdc-89ec-3cfe630f9353)
+![image](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/74b5d769-93d1-4e62-9b48-afe789e0d57f)
+
+
+
+
 
 
