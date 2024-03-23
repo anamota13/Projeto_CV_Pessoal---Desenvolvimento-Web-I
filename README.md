@@ -25,15 +25,15 @@ Abaixo, você encontrará o link para acessar o site:
 
 Siga abaixo imagens referentes ao layout do site: 
 
-![Screenshot 1](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/98ac27a5-5ac5-446e-ac35-36b3e91b2ac4){:class="screenshot"}
+![Screenshot 1](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/98ac27a5-5ac5-446e-ac35-36b3e91b2ac4)
 
 ![Screenshot 2](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/5ef25d18-2af4-446e-8804-ce2a70f030d4)
 
-![Screenshot 3](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/0cfc81d8-ce2d-49de-bf36-e406f7d5985f){:class="screenshot"}
+![Screenshot 3](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/0cfc81d8-ce2d-49de-bf36-e406f7d5985f)
 
-![Screenshot 4](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/310d567c-1753-4cdc-89ec-3cfe630f9353){:class="screenshot"}
+![Screenshot 4](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/310d567c-1753-4cdc-89ec-3cfe630f9353)
 
-![Screenshot 5](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/74b5d769-93d1-4e62-9b48-afe789e0d57f){:class="screenshot"}
+![Screenshot 5](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/74b5d769-93d1-4e62-9b48-afe789e0d57f)
 
 
 
