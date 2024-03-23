@@ -52,9 +52,6 @@ Siga abaixo imagens referentes ao layout do site:
 ![Screenshot 5](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/74b5d769-93d1-4e62-9b48-afe789e0d57f)
 
 
-## Autores
-![Ana Júlia Alves Mota](https://github.com/anamota13)
-
 
 
 
