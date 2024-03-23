@@ -2,7 +2,7 @@
 
 ##  Acesso
 Siga abaixo os links para acesso: 
-**Acesso ao Site:** https://anamotaof.000webhostapp.com/?classId=37e2308e-350a-47a0-9146-9ba0883a9999&assignmentId=9654d039-0239-41f8-af9b-357f7bacc96c&submissionId=ff646006-f2d5-b422-dc85-e42842bc516c
+**Acesso ao Site:**[ ](https://encr.pw/AnaMota-CV)
 
 ## Descrição
 Este projeto, desenvolvido durante as aulas de Programação Web I, envolve a criação de uma página web para apresentar o currículo pessoal de cada aluno. A página destaca informações como educação, experiência profissional, habilidades e informações de contato para, principalmente, ingressar na área de tecnologia.
