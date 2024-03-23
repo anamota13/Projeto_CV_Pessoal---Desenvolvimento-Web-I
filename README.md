@@ -27,7 +27,7 @@ Siga abaixo imagens referentes ao layout do site:
 
 ![Screenshot 1](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/98ac27a5-5ac5-446e-ac35-36b3e91b2ac4){:class="screenshot"}
 
-![Screenshot 2](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/dd911096-cb31-4cc2-97ea-8fe20ff8a392){:class="screenshot"}
+![Screenshot 2](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/5ef25d18-2af4-446e-8804-ce2a70f030d4)
 
 ![Screenshot 3](https://github.com/anamota13/Projeto_CV_Pessoal---Desenvolvimento-Web-I/assets/110187484/0cfc81d8-ce2d-49de-bf36-e406f7d5985f){:class="screenshot"}
 
