@@ -17,7 +17,7 @@ Linguagem de estilo usada para controlar a aparência e o layout de páginas web
 ## 🌐 Acesso
 Abaixo, você encontrará o link para acessar o site:
 
-<a href="https://encr.pw/AnaMota-CV" style="color: black;">Clique aqui para acessar o site</a>
+<a href="https://anamota13.github.io/Projeto_CV_Pessoal---Desenvolvimento-Web-I/" style="color: black;">Clique aqui para acessar o site</a>
 
 
 
